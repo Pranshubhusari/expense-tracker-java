@@ -1,0 +1,28 @@
+# IntelliJ
+/.idea
+*.iml
+
+# Java build folders
+/out/
+/target/
+
+# Class files
+*.class
+
+# Logs
+*.log
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Runtime/generated files
+expenses.csv
+
+# Maven/Gradle
+/.mvn/
+/.gradle/
+/build/
+
+# Others
+*.jar
